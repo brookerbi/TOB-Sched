@@ -1,4 +1,6 @@
 # TOB-Sched
-Addressing the challenge of accurate modeling time step in the complex instruction execution process of the Boolean processor-based emulation (PBE) compilation flow, TOB-Sched proposes a topological order balancing-driven scheduling algorithm. It delivers superior PBE performance and establishes a new frontier for this area.
+TOB-Sched is a topological order balancing-driven scheduling algorithm designed to improve modeling accuracy in Boolean processor-based emulation (PBE) compilation flows.
 
-This version contains the main algorithms of TOB-Sched, such as mobility-prioritized node selection, gain calculation, and efficient forward and backward propagation. Note that the complete version will be released in a future update. 
+This repository provides the core algorithmic components of TOB-Sched, including mobility-prioritized node selection, gain calculation, and efficient forward and backward propagation, as described in our paper.
+
+The current release focuses on the key algorithmic modules. A more complete version with user-friendly interfaces and documentation is under active development and will be released in the near future.
